@@ -5,7 +5,8 @@
 
 ![Group 5 (1)](https://github.com/Moreau621/zapar/assets/144129025/8a580cd0-28b4-47cc-906f-a182edeffe33)
 
-​## QR CODE
+​## QG Code
+
 ![Untitled 1 (1)](https://github.com/Moreau621/zapar/assets/144129025/a478ad54-99b8-41f0-b2a8-6fc61cd0d844)
 
 
