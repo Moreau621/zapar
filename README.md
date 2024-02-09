@@ -1,32 +1,12 @@
-# Zappar for A-Frame Examples
-This repository contains an AR example using the Zappar SDK for A-Frame.
-
-For more information, check out the package page for [Zappar for A-Frame](https://www.npmjs.com/package/@zappar/zappar-aframe) (@zappar/zappar-aframe).
-
-## Preview
-​
-Scan the QR code below using your native camera app or QR code reader to view the example:
-​
-![Preview QR Code"](preview-qr-code.png)
-
-## Prerequisites
-
-To get started you'll want to print out the example target images, `example-tracking-image.png` and `BusinessCard.png`.
+# Kéwann MOREAU card + video
 
 
-## Trying the Examples
+## Carte de visite
 
-Due to browser restrictions surrounding use of the camera, you must use HTTPS to access the HTML files, even if doing so locally from your computer. You can use the [ZapWorks command-line tool](https://www.npmjs.com/package/@zappar/zapworks-cli) to serve a folder over HTTPS for access on your local computer, like this:
-```
-zapworks serve .
-```
+![Group 5 (1)](https://github.com/Moreau621/zapar/assets/144129025/8a580cd0-28b4-47cc-906f-a182edeffe33)
 
-The command also lets you serve the folder for access by other devices on your local network, like this:
-```
-zapworks serve . --lan
-```
+​## QR CODE
+![Untitled 1 (1)](https://github.com/Moreau621/zapar/assets/144129025/a478ad54-99b8-41f0-b2a8-6fc61cd0d844)
 
-Once this is running, open the link that's output on the console and tap the different HTML files to try the examples. If you'd like to try on a mobile device, ensure it's on the same local network as your computer, then visit the appropriate link in the console output.
 
-## Target Image
-![Target Image](example-tracking-image.png)
+Mon projet représente une partition de piano qui se dessine en fonction de la musique. Pour cela j'ai recréé la partition à l'aide d'Illustrator, puis je l'ai animé avec l'aide d'After Effect. Ce projet se nomme "Design en Crescendo" c'est pour cela que l'animation s'anime lentement au début puis prend de la vitesse au cours du temps.
